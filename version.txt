@@ -1,2 +1,2 @@
-version=1
+version=2
 mensaje=Ya hay una nueva version disponible en Play Store, actualiza para seguir Jugando
