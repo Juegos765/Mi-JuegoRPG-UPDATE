@@ -1,2 +1,2 @@
-version=2
+version=3
 mensaje=Ya hay una nueva version disponible en Play Store
